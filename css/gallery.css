@@ -158,7 +158,6 @@
 @media (max-width:540px){
     /*GALLERY*/
     .gallery__content{
-        columns: 3 110px;
         column-gap: 5px;
         padding: 5px;
     }
